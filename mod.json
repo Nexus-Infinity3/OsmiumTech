@@ -1,7 +1,9 @@
 {
-  "name": "Osmium Tech Expansion",
-  "author": "박하율",
-  "version": "1.0.0",
-  "description": "밝은 연하늘색 오스뮴 기반의 전력/탄환/유닛/기계 유닛/방어 필드 통합 모드.",
-  "minGameVersion": 147
+  "name": "MyMod",
+  "author": "User",
+  "description": "Custom mod with smelter, unit factory, sprites",
+  "version": "1.0",
+  "minGameVersion": 147,
+  "dependencies": [],
+  "hidden": false
 }
