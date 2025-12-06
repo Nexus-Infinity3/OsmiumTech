@@ -1,9 +1,0 @@
-{
-  "name": "MyMod",
-  "author": "User",
-  "description": "Custom mod with smelter, unit factory, sprites",
-  "version": "1.0",
-  "minGameVersion": 147,
-  "dependencies": [],
-  "hidden": false
-}
